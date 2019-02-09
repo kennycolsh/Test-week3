@@ -1,0 +1,12 @@
+git init
+git add .
+git commit -m"Added test file"
+git status
+git remote add origin https://github.com/kennycolsh/Test-week3.git
+git push -u origin master
+
+
+git pull
+git push
+git log
+git commit -m"Added test file"
